@@ -1,5 +1,5 @@
 
-function add(numero_uno, numero_dos) { // definicion kebab-case
+function add(numero_uno, numero_dos = 2) { // definicion kebab-case
 
     console.log(numero_uno, numero_dos)
 

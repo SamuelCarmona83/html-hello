@@ -23,6 +23,8 @@ const carro = {
 
 }
 
+// carro.nombre; ERROR 
+
 carro.ruedas = 4;
 
 carro.color = 'Azul'
