@@ -10,10 +10,6 @@ function contarHaciaAtras(numero){ // recursiva
 }
 
 //  contarHaciaAtras(5)
-
-
-
-
 function fibo(numero){
     if(numero <= 0){
         return 0
